@@ -1,0 +1,10 @@
+/Users/rabiaceylan/Desktop/derslerr/1.ders -ödev/1.Ders-ödev/ödev 1/ödev 1/bin/Debug/net9.0/ödev 1
+/Users/rabiaceylan/Desktop/derslerr/1.ders -ödev/1.Ders-ödev/ödev 1/ödev 1/bin/Debug/net9.0/ödev 1.dll
+/Users/rabiaceylan/Desktop/derslerr/1.ders -ödev/1.Ders-ödev/ödev 1/ödev 1/bin/Debug/net9.0/ödev 1.pdb
+/Users/rabiaceylan/Desktop/derslerr/1.ders -ödev/1.Ders-ödev/ödev 1/ödev 1/obj/Debug/net9.0/ödev 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rabiaceylan/Desktop/derslerr/1.ders -ödev/1.Ders-ödev/ödev 1/ödev 1/obj/Debug/net9.0/ödev 1.AssemblyInfoInputs.cache
+/Users/rabiaceylan/Desktop/derslerr/1.ders -ödev/1.Ders-ödev/ödev 1/ödev 1/obj/Debug/net9.0/ödev 1.AssemblyInfo.cs
+/Users/rabiaceylan/Desktop/derslerr/1.ders -ödev/1.Ders-ödev/ödev 1/ödev 1/obj/Debug/net9.0/ödev 1.csproj.CoreCompileInputs.cache
+/Users/rabiaceylan/Desktop/derslerr/1.ders -ödev/1.Ders-ödev/ödev 1/ödev 1/obj/Debug/net9.0/ödev 1.dll
+/Users/rabiaceylan/Desktop/derslerr/1.ders -ödev/1.Ders-ödev/ödev 1/ödev 1/obj/Debug/net9.0/refint/ödev 1.dll
+/Users/rabiaceylan/Desktop/derslerr/1.ders -ödev/1.Ders-ödev/ödev 1/ödev 1/obj/Debug/net9.0/ödev 1.pdb
